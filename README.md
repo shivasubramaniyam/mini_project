@@ -66,12 +66,22 @@ This Python program uses OpenCV and face_recognition libraries to capture video 
 
 ## Screenshots
 **Main Program Running:**
-![Main Program](screenshot1.png)
+![c1](https://github.com/user-attachments/assets/51e7732b-8094-4dd7-86b0-5820e03e723b)
+![c2](https://github.com/user-attachments/assets/d30524d7-ad95-4d6a-b08b-b08e6f74f6ef)
+![c3](https://github.com/user-attachments/assets/822fda21-cf2f-4b37-8bd4-13e45ca0a2ed)
+![c4](https://github.com/user-attachments/assets/c0682e37-1dfc-4586-8d37-86ee7dd7612f)
+![c5](https://github.com/user-attachments/assets/0851118a-6ff7-4530-bcd4-3abb0658b923)
+
+
 
 **Face Detection:**
-![Face Detection](screenshot2.png)
+![Screenshot (16)](https://github.com/user-attachments/assets/181caa81-e341-4743-8f7a-bff611115ad6)
+![Screenshot (28)](https://github.com/user-attachments/assets/219228df-461c-4d66-8de1-fcf5a04a7573)
+
+
+
 
 **Attendance Marked in CSV:**
-![CSV Output](![Screenshot (33)](https://github.com/user-attachments/assets/1bca155c-7c41-4754-8da9-19c06f4b38be)
-)
+![Screenshot (33)](https://github.com/user-attachments/assets/1bca155c-7c41-4754-8da9-19c06f4b38be)
+
 
